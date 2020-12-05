@@ -1,4 +1,4 @@
-# Stefan991 Stefan991
+# Formulae for own use
 
 ## How do I install these formulae?
 `brew install stefan991/stefan991/<formula>`
